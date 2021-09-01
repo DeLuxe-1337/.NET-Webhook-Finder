@@ -14,8 +14,8 @@ You can drag your exe onto the webhook finder and it will work or you can open i
 2. See if the string contains the start of a discord webhook
 3. Profit
 
-- [] Better scanning
+- [ ] Better scanning
 - [x] Basic scanning
-- [] Base64 string scanning
-- [] Encyrpted string scanning
-- [] Auto string encryption solver 
+- [ ] Base64 string scanning
+- [ ] Encyrpted string scanning
+- [ ] Auto string encryption solver 
